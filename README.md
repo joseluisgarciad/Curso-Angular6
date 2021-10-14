@@ -27,14 +27,6 @@ other things you could add:
     License
     References
 
-Templates
-
-    _cheatsheet.md
-        a simple markdown cheatsheet (in construction)
-    assignment.md
-        an example of an university assignment
-    opensource.md
-        a template for an open source project made by @dbader
 
 Contributing
 
